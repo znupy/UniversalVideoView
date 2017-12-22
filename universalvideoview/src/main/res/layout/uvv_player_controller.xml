@@ -41,7 +41,6 @@
             android:layout_width="50dp"
             android:layout_height="fill_parent"
             android:background="#00000000"
-            android:contentDescription="返回"
             android:gravity="center"
             android:scaleType="centerInside"
             android:src="@drawable/uvv_back_btn"
@@ -68,7 +67,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:contentDescription="@null"
         android:scaleType="fitXY"
         android:src="@drawable/uvv_itv_player_play"
         android:visibility="gone" />
